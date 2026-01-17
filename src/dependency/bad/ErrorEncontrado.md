@@ -1,0 +1,1 @@
+La clase CarOriginal está dependiendo de la clase EnginerOriginal, en el momento que se realicen cambios en la clase EnginerOriginal la clase CarOriginal se verá afectado.
