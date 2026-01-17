@@ -1,0 +1,2 @@
+# Justificacion
+Se creo una interfaz llamada Area que es implementada en la clase abtsracta ShapeOriginal, con el fin de establecer un contrato a todas las clases que hereden de ShapeOriginal y que indique como calcular su area y evitar los condicionales en la clase ShapeCaculatorOriginal.
