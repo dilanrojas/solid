@@ -14,4 +14,4 @@ Se debe evitar depender de interfaces que no se utilizan. **Es mejor tener mucha
 
 # 5. D (Dependency Inversion)
 Las clases importantes no deben depender de clases concretas.
-Un módulo debe depender de interfaces y de clases abstractas, y no de implementaciones volátiles.
+Un módulo debe depender de interfaces y de clases abstractas, y no de implementac
