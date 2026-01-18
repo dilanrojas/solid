@@ -1,1 +1,2 @@
-La clase RectangleOriginal obliga a las demas clases a utilizar atributos innecesarios, la clase SquareOriginal se ve obligada a utilizar ancho y largo a pesar que solo necesita la medida de un lado.
+# Error
+La clase RectangleOriginal obliga a las demas clases a utilizar atributos innecesarios,la clase SquareOriginal se ve obligada a utilizar ancho y largo a pesar que solo necesita la medida de un lado.

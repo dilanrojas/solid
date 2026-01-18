@@ -1,1 +1,2 @@
+# Justificación
 En búsqueda de eliminar la implementación de código inecesario, creamos una interfaz que manejará el método de calcular área para que así ambas clases lo implementen y se aplique sus respectivas fórmulas de cálculo de área según cada figura.
